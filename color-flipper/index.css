@@ -1,0 +1,27 @@
+body{
+background-color: brown;
+padding: 10px;
+
+}
+
+
+
+.container{
+text-align: center;
+
+}
+
+#change-color{
+  
+
+  margin-top: 400px;
+  color: black;
+  background:rgb(73, 64, 64) ;
+  cursor: pointer;
+  border-width: 4px;
+  border-radius: 2px;
+  padding: 10px;
+
+}
+
+
